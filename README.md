@@ -1,5 +1,5 @@
 # Bitcoin-BiLSTM-Forecasting
-Deep Learning pipeline for Crypto volatility forecasting and Portfolio Optimization.
+Deep Learning pipeline for Crypto volatility forecasting and Portfolio Optimization. New model: BiLSTM + GARCH.
 # Deep Learning for Cryptocurrency Forecasting & Portfolio Optimization 📉🚀
 
 ## 📌 Project Overview
